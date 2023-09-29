@@ -1,2 +1,4 @@
 spring:
   profiles: default
+app:
+  timeout: 200
